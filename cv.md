@@ -15,3 +15,9 @@ I am looking for a job in the company as a junior front-end developer. I am read
 | --------------------------------------------------------------- | :-----------------------------------------------: | ---------------: |
 | Belarusian State University of Informatics and Radioelectronics | Information Systems and Technologies in Economics |             2022 |
 
+## Skills:
+
+- OOP
+- C++
+- Git and GitHub
+- Markdown
