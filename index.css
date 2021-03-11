@@ -56,14 +56,12 @@ body {
 }
 
 .picture {
-  background-image: url(me.png);
-  width: 240px;
-  height: 240px;
   border: 5px solid #a383a0;
   background-repeat: no-repeat;
   margin-right: auto;
   background-size: cover;
 }
+
 
 .container {
   width: 100%;
